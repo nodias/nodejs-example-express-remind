@@ -1,0 +1,20 @@
+{
+  "name": "nodejs-example-rest-swagger_express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start" : "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "swagger-jsdoc": "^3.4.0",
+    "swagger-ui-express": "^4.1.2"
+  },
+  "devDependencies": {
+    "ejs": "^2.7.1"
+  }
+}
