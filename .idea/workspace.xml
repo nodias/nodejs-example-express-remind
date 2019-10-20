@@ -2,53 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a1707e9-0c6d-4637-901c-08c35db87c91" name="Default Changelist" comment="kk">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/express-session/HISTORY.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/express-session/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/express-session/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/express-session/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/express-session/node_modules/depd/History.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/express-session/node_modules/depd/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/express-session/node_modules/depd/Readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/express-session/node_modules/depd/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/express-session/node_modules/depd/lib/browser/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/express-session/node_modules/depd/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/express-session/node_modules/safe-buffer/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/express-session/node_modules/safe-buffer/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/express-session/node_modules/safe-buffer/index.d.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/express-session/node_modules/safe-buffer/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/express-session/node_modules/safe-buffer/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/express-session/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/express-session/session/cookie.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/express-session/session/memory.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/express-session/session/session.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/express-session/session/store.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/on-headers/HISTORY.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/on-headers/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/on-headers/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/on-headers/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/on-headers/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/random-bytes/HISTORY.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/random-bytes/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/random-bytes/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/random-bytes/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/random-bytes/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/uid-safe/HISTORY.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/uid-safe/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/uid-safe/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/uid-safe/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/node_modules/uid-safe/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/body.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/header.ejs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/index.ejs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/router/routes.js" beforeDir="false" afterPath="$PROJECT_DIR$/router/routes.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/server.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/about.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/views/index.html" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -106,7 +61,7 @@
       <workItem from="1571465871257" duration="217000" />
       <workItem from="1571466118021" duration="2532000" />
       <workItem from="1571468975215" duration="4352000" />
-      <workItem from="1571535215672" duration="4191000" />
+      <workItem from="1571535215672" duration="4784000" />
     </task>
     <servers />
   </component>
