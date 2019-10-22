@@ -1,0 +1,10 @@
+{
+  "development": {
+    "username": "admin",
+    "password": "admin",
+    "database": "account",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "operatorsAliases": false
+  }
+}

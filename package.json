@@ -4,18 +4,25 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "node server.js"
+    "start": "node ./bin/www",
+    "start:dev": "nodemon ./bin/www"
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "nodias@naver.com",
   "dependencies": {
     "express": "^4.17.1",
     "express-session": "^1.17.0",
+    "morgan": "^1.9.1",
+    "pg": "^7.12.1",
+    "pg-hstore": "^2.3.3",
+    "sequelize": "^5.21.1",
+    "sequelize-cli": "^5.5.1",
     "swagger-jsdoc": "^3.4.0",
     "swagger-ui-express": "^4.1.2"
   },
   "devDependencies": {
-    "ejs": "^2.7.1"
+    "ejs": "^2.7.1",
+    "nodemon": "^1.19.4"
   }
 }
