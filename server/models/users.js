@@ -4,6 +4,7 @@ module.exports = (sequelize, DataTypes) => {
         email: {
             type: DataTypes.STRING,
             allowNull: false,
+            unique: true
         },
         password: {
             type: DataTypes.STRING,
@@ -16,6 +17,7 @@ module.exports = (sequelize, DataTypes) => {
         phoneNumber: {
             type: DataTypes.INTEGER,
             allowNull: false,
+            unique: true
         }
     });
     users.associate = function (models) {
