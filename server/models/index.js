@@ -9,6 +9,7 @@ const config = require(__dirname + '/../config/config.json')[env];
 const db = {};
 
 let sequelize;
+
 if (config.use_env_variable) {
     sequelize = new Sequelize(process.env[config.use_env_variable], config);
 } else {
@@ -19,7 +20,6 @@ if (config.use_env_variable) {
 sequelize.authenticate()
     .then(function (err) {
         console.log('Connection has been established successfully.');
-        process.exit()
     })
     .catch(function (err) {
         console.log('Unable to connect to the database', err);
